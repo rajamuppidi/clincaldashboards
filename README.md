@@ -1,11 +1,13 @@
-# Healthcare Dashboard in PowerBI
+# Healthcare Dashboard Projects
 
 ## Overview
 This repository contains two comprehensive Power BI dashboards designed to enhance operational insights and patient management within a healthcare facility. The dashboards provide a detailed overview of hospital operations and specific insights into patient demographics and statuses, helping healthcare professionals make informed decisions.
 
 ## Dashboards:
 1. **Detailed Hospital Summary**: Offers a granular view of hospital metrics including patient flow, bed occupancy, and revenue by age group.
+   ![Detailed Hospital Summary](https://github.com/rajamuppidi/clinicaldashboards/blob/main/Hospital%20Dashboard.png?raw=true)
 2. **Patient Summary Dashboard**: Focuses on patient-specific data, showcasing demographics, department-wise distribution, and patient outcomes.
+   ![Patient Summary Dashboard](https://github.com/rajamuppidi/clinicaldashboards/blob/main/patientsSummary.png?raw=true)
 
 ## Data Preparation and Model:
 - **Data Source**: Utilized Microsoft Excel for initial data input and organization.
